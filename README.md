@@ -1,5 +1,5 @@
 # REPOSITORIO PARA EL EXAMEN DE GIT 
-###En este examen voi a poner en practica todos los conocimientos sobre GIT que hemos aprendido
+### En este examen voi a poner en practica todos los conocimientos sobre GIT que hemos aprendido
 
 
 ## Algunas de las cosas que tendré que hacer serán
