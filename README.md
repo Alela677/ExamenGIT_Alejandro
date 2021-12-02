@@ -4,9 +4,9 @@
 
 ## Algunas de las cosas que tendré que hacer serán
 
-> Crear repositorios locales
-> Realizar commit
-> Tranajar con ramas 
+>> Crear repositorios locales
+>> Realizar commit
+>> Tranajar con ramas 
 
 ## Objetivos 
 
